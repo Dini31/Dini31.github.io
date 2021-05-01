@@ -1,0 +1,15 @@
+.pengumuman{
+	height: 300px;
+}
+.fakultas{
+	height: 550px;
+	background-color: #eaeaea;
+}
+#contact i{
+	margin-right: 6px;
+}
+.footer{
+	height: 50px;
+	background-color: #eaeaea;
+	padding-top: 3px;
+}
